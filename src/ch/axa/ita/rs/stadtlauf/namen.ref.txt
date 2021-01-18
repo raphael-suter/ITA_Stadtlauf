@@ -1,0 +1,163 @@
+1	Bruppacher 1	1	5	00:32:59
+4	Lutz 2	1	18	00:38:36
+7	Achermann	1	16	00:38:01
+13	Amstein	1	19	00:38:39
+22	Feusi 2	1	35	00:42:22
+28	Bosshardt	1	7	00:33:12
+52	Bloch	1	44	00:45:42
+55	Doebeli	1	43	00:45:36
+58	Meier R.	1	30	00:40:34
+61	Ammann	1	40	00:44:54
+64	Stauber	1	33	00:41:22
+70	Bamberger	1	36	00:42:41
+85	Bolz	1	34	00:41:25
+88	Strausak	1	45	00:45:48
+91	Oberholzer	1	39	00:44:47
+94	Iten 2	1	37	00:44:03
+103	Vogler	2	21	01:07:26
+106	Bruppacher	2	59	01:19:56
+109	Enz 1	2	44	01:11:28
+112	Glogg 2	2	60	01:20:21
+115	Vogt	2	19	01:07:04
+118	Achermann	2	24	01:08:24
+121	Tiefenauer	2	50	01:12:53
+133	Weber	2	14	01:05:57
+139	Hugentobler	2	26	01:08:35
+142	Fehr	2	38	01:10:21
+145	Gisler	2	23	01:08:18
+163	Feusi	2	3	01:01:47
+166	Temperli	2	22	01:08:10
+169	Spillmann 1	2	16	01:06:09
+172	Senft 2	2	53	01:15:15
+175	Amschwand 2	2	34	01:09:34
+178	Haupt	2	35	01:09:37
+181	Merotto	2	40	01:10:28
+202	Weinmann 1	3	18	01:20:10
+205	Bloch	3	25	01:22:17
+208	Lauener	3	39	01:26:44
+211	Naef	3	42	01:27:41
+214	Jost	3	48	01:30:58
+223	Boegli	3	47	01:30:25
+226	Inderbitzin 3	3	27	01:23:11
+229	Ammann	3	31	01:23:56
+232	Liebi	3	5	01:17:14
+235	Boller 2	3	28	01:23:17
+238	Camenzind	3	16	01:20:00
+241	Trottmann 2	3	43	01:27:56
+253	Togni	3	24	01:21:57
+256	Zehnder	3	50	01:31:20
+259	Brechbühl	3	17	01:20:03
+262	Reolon 2	3	1	01:15:44
+265	Künzler	3	20	01:20:24
+268	Oberholzer	3	10	01:18:59
+2	Bruppacher 2	1	10	00:34:59
+5	Haas	1	11	00:35:48
+8	Pfammatter	1	13	00:36:51
+14	Arnold	1	2	00:31:29
+23	Temperli	1	1	00:30:36
+26	Arnold	1	9	00:34:38
+29	Merotto	1	21	00:38:52
+53	Frei	1	41	00:44:59
+56	Stauber	1	46	00:46:03
+62	Le Pape	1	20	00:38:49
+65	Donze	1	27	00:40:09
+71	Murer	1	28	00:40:16
+83	Leuch	1	49	00:51:52
+86	Mattli	1	25	00:39:53
+92	Kober	1	31	00:41:10
+101	Hutter	2	13	01:05:34
+104	Tobler 1	2	37	01:10:08
+107	Lutz	2	36	01:10:06
+110	Enz 2	2	57	01:18:31
+113	Haas	2	43	01:11:22
+116	Ender 1	2	31	01:09:22
+119	Hirzel 1 	2	33	01:09:32
+122	Pfammatter	2	42	01:11:20
+131	Gähwiler	2	30	01:09:19
+134	Bucher	2	18	01:06:19
+137	Hässig 1	2	17	01:06:14
+140	Müller	2	15	01:06:05
+143	Blaser 1	2	28	01:08:54
+146	Bachmann	2	8	01:03:24
+161	Stehli	2	46	01:12:21
+164	Häuselmann	2	12	01:05:22
+167	Trottmann 1	2	9	01:04:13
+170	Spillmann 2	2	32	01:09:28
+173	Stoll	2	27	01:08:49
+176	Rebsamen	2	1	01:00:15
+179	Gallmann	2	54	01:15:30
+182	Bosshardt	2	56	01:18:23
+203	Weinmann 2	3	52	01:39:01
+206	Doebeli	3	51	01:35:58
+209	Loosli 1	3	19	01:20:23
+212	Heller	3	40	01:26:53
+221	Winkler	3	21	01:21:00
+224	Inderbitzin 1	3	13	01:19:36
+227	Niggli 1	3	38	01:26:42
+230	Leutenegger 1	3	22	01:21:03
+233	Blust	3	35	01:25:36
+236	Eckard	3	3	01:15:49
+239	Müller	3	7	01:17:58
+242	Brubpacher 1	3	41	01:27:37
+254	Clavadetscher	3	4	01:16:28
+257	Zeller 1	3	8	01:18:16
+260	Jakob	3	23	01:21:30
+263	Reolon 3	3	37	01:26:11
+269	Kober	3	11	01:19:13
+3	Lutz 1	1	29	00:40:29
+6	Vogt	1	12	00:36:41
+12	Bucher	1	6	00:33:04
+15	Fehr	1	3	00:32:14
+21	Feusi 1	1	14	00:37:00
+24	Stoll	1	8	00:33:18
+27	Spreng	1	4	00:32:54
+51	Zehntner	1	23	00:39:22
+54	Lauener	1	47	00:47:44
+57	Bagattini	1	42	00:45:19
+63	Liebi	1	38	00:44:07
+66	Boller	1	48	00:51:11
+69	Engler	1	17	00:38:21
+81	Wölfle 1	1	15	00:37:28
+84	Zehnder	1	24	00:39:27
+87	Rötschi	1	22	00:39:19
+90	Bernhard	1	26	00:40:02
+93	Iten 1	1	32	00:41:20
+102	Bochsler	2	45	01:11:31
+105	Tobler 2	2	52	01:14:35
+111	Glogg 1	2	49	01:12:51
+114	Boller	2	25	01:08:28
+117	Ender 2	2	58	01:19:42
+120	Hirzel 2	2	55	01:18:13
+123	Wietlisbach	2	20	01:07:06
+132	Neuer	2	11	01:04:35
+135	Felzmann 1	2	48	01:12:38
+138	Hässig 2	2	47	01:12:36
+141	Amstein	2	29	01:09:03
+144	Blaser 2	2	51	01:14:17
+162	Huber	2	10	01:04:15
+165	Pongracz	2	2	01:01:44
+168	Trottmann 2	2	39	01:10:27
+171	Senft 1	2	5	01:02:32
+174	Amschwand 1	2	4	01:02:09
+177	Baumgartner	2	7	01:03:14
+180	Huber	2	41	01:11:19
+183	Spreng	2	6	01:03:08
+201	Kohler	3	46	01:29:07
+204	Zehntner	3	44	01:28:26
+207	Frei	3	29	01:23:22
+210	Loosli 2	3	49	01:31:12
+213	Bagattini	3	14	01:19:40
+216	Meier W.	3	30	01:23:35
+222	Lauffer	3	45	01:28:59
+225	Inderbitzin 2	3	26	01:22:23
+228	Niggli 2	3	54	01:41:12
+231	Leutenegger 2	3	53	01:39:32
+234	Boller 1	3	34	01:24:08
+240	Trottmann 1	3	9	01:18:34
+243	Brubpacher 2	3	12	01:19:25
+252	Stalder	3	36	01:26:08
+255	Leuch	3	15	01:19:53
+258	Zeller 2	3	32	01:24:01
+261	Reolon 1	3	2	01:15:45
+267	Wipf	3	33	01:24:07
+270	Widmer	3	6	01:17:16
